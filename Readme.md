@@ -1,5 +1,3 @@
-# 💼 Personal Portfolio Website
-
 This is my personal **portfolio website** built using HTML, CSS, and JavaScript.  
 It showcases my skills, projects, and contact information in a clean and responsive layout.
 
@@ -13,7 +11,11 @@ It showcases my skills, projects, and contact information in a clean and respons
 ## 📁 GitHub Repository
 👉 https://github.com/Shahbazahmad33/portfolio-website.git
 
----
+## Preview
+<img width="1899" height="985" alt="image" src="https://github.com/user-attachments/assets/4d537374-f9d8-4004-a66d-bf343abdd660" />
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/55ca6a88-92d1-44d3-a196-266ced29c0b5" />
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/c1a70afc-6ddf-4294-ab4c-0692c9a27ce2" />
+
 
 ## 🛠️ Technologies Used
 - HTML5
