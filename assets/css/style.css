@@ -325,6 +325,10 @@ img {
 }
 
 @media (max-width: 768px) {
+  #hero {
+    background-position: center 0%;
+  }
+
   #hero h1 {
     font-size: 38px;
     line-height: 1.2;
@@ -1395,6 +1399,10 @@ section {
 }
 
 @media (max-width: 430px) {
+  #hero {
+    background-position: 56% 0%;
+  }
+
   section {
     padding: 42px 16px;
   }
